@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+<body>
+<center>
+ <img src="https://th.bing.com/th/id/OIP.rfAxRpFehXKS5XXfDbp5pQHaDs?rs=1&pid=ImgDetMain">
+
+<table border="1" style="font-weight:bold" cellspacing="0">
+<b>
+<caption > FACULTY OF INFORMATION TECHNOLOGY <br>BSCIT 1ST Year TIMETABLE: 2024<br>CAMPUS NAME: CAPETOWN</caption>
+<tr bgcolor="grey">
+<td></td>
+<td> 8:30-9:30</td>
+<td>9:30-10:30</td>
+<td>10:30-11:30</td>
+<td>11:30-12:30</td>
+<td>12:30<br>13:30</td>
+<td>13:30-14:30</td>
+<td>14:30-15:30</td>
+<td>15:30-16:30</td>
+</tr>
+<tr>
+<td bgcolor="grey">Mon</td>
+<td> Math 511    Venue:<br>Audtorium       Adrian</td>
+<td>Math 511    Venue:<br>Audtorium       Adrian</td>
+<td> </td>
+<td>WebTech 511A Theory<br>Venue:Audtorium<br>Jemima</td>
+<td>L</td>
+<td></td>
+<td>Networks 511A<br>Venue :Audtorium</td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="grey">TUES</td>
+<td> INS511A Theory Venue:<br>Audtorium       Alex</td>
+<td></td>
+<td>Prog 511A Theory Venue:<br>Audtorium       Jealous </td>
+<td></td>
+<td>U</td>
+<td>INS 511A Prac<br> Venue :Lab 1,2,3<br>Alex</td>
+<td>INS 511A Prac<br> Venue :Lab 1,2,3<br>Alex</td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="grey">WED</td>
+<td> </td>
+<td> Math 511    Venue:<br>Audtorium       Adrian</td>
+<td> WebTech 511A Theory<br>Venue:Audtorium<br>Jemima</td>
+<td></td>
+<td>N</td>
+<td>Prog 511A Prac<br>Venue:Lab1,2,3<br>Jealous</td>
+<td>Prog 511A Prac<br>Venue:Lab1,2,3<br>Jealous</td>
+<td></td>
+</tr>
+<td bgcolor="grey">Thur</td>
+<td> Networks 511A<br>Venue:Audtorium</td>
+<td>INS511A Theory Venue:<br>Audtorium       Alex</td>
+<td>Prog 511A Theory Venue:<br>Audtorium       Jealous</td>
+<td></td>
+<td>C</td>
+<td>WebTech  511A Prac<br>1,2,3<br> Jemina</td>
+<td>WebTech  511A Prac<br>1,2,3<br> Jemina</td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="grey">FRI</td>
+<td></td>
+<td bgcolor="lightblue"> Networks 511A<br>Venue:Audtorium</td>
+<td></td>
+<td>Math 511    Venue:<br>Audtorium       Adrian</td>
+<td>H</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</b>
+</table>
+</center>
+</style>
+</body>
+</html>
